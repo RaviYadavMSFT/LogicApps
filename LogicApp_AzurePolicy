@@ -401,9 +401,9 @@
         "$connections": {
             "value": {
                 "office365": {
-                    "connectionId": "/subscriptions/d1d8779d-38d7-4f06-91db-9cbc8de0176f/resourceGroups/SOC-ASC/providers/Microsoft.Web/connections/Office365-Notify-SecurityIssues",
-                    "connectionName": "Office365-Notify-SecurityIssues",
-                    "id": "/subscriptions/d1d8779d-38d7-4f06-91db-9cbc8de0176f/providers/Microsoft.Web/locations/eastus/managedApis/office365"
+                    "connectionId": "",
+                    "connectionName": "",
+                    "id": ""
                 }
             }
         }
