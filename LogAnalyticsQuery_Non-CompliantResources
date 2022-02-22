@@ -1,0 +1,4 @@
+securityresources
+| where type == "microsoft.security/regulatorycompliancestandards" and name contains "Azure-CIS"
+| extend State=properties.state, FailedControls=tostring(properties.failedControls), PassedControls=tostring(properties.passedControls)
+| project tostring(subscriptionId),State,FailedControls,PassedControls 
