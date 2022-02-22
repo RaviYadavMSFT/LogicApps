@@ -3,9 +3,13 @@
 #######################################################################################################
 
 Author: Ravi Yadav - Microsoft
+
 Date: February 22, 2022
+
 Version: 1.0
+
 Description: Create Logic Apps Email (Office 365) alert for non-Compliant Azure Policies
+
 
 GitHub:
 
